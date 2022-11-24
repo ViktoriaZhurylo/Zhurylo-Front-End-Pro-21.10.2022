@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         } else {
             alert('The item you entered is not in the list. Please enter an item from the list')
-            location. reload()
+            location.reload()
         }
     }
     removeElement(array, userElement );
